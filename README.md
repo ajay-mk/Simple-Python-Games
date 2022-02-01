@@ -8,11 +8,3 @@ If you have some games that you want to add, submit a pull request.
 
 Feel free to check out, raise an issue if you see a bug and contribute.
 
-
-
-#### Some useful links
-
- - [1](#)
- - [2](#)
- - [3](#)
-
